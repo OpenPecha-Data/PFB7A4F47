@@ -1,0 +1,104 @@
+id: f3d2ee113b28420b9e150d2084af6d3d
+annotation_type: Segment
+revision: '00001'
+annotations:
+  a1703cbe567b44f899081a1f4d9dc1de:
+    span:
+      start: 0
+      end: 2
+    metadata: {}
+  ec5506f199f84c1c9eae9449a3925c7b:
+    span:
+      start: 5
+      end: 109
+    metadata: {}
+  30f973aeb2494a86a6e9a978b0c32b7c:
+    span:
+      start: 112
+      end: 210
+    metadata: {}
+  d2268789eb67424fb7abae27ac336c5f:
+    span:
+      start: 213
+      end: 317
+    metadata: {}
+  fb63bd77def94325858b41c43c3f0b34:
+    span:
+      start: 320
+      end: 416
+    metadata: {}
+  e885cfd867f24419aa5a38a275a06450:
+    span:
+      start: 419
+      end: 522
+    metadata: {}
+  25f3e422ea634b38ac1d96bf004d6d44:
+    span:
+      start: 525
+      end: 625
+    metadata: {}
+  9bd3d827803f4108b070443135e41451:
+    span:
+      start: 628
+      end: 727
+    metadata: {}
+  54685cc9150d4d4bb7afa3547d0a806b:
+    span:
+      start: 730
+      end: 876
+    metadata: {}
+  1ef1818a07da467aa2d8557c664682e2:
+    span:
+      start: 879
+      end: 978
+    metadata: {}
+  1a4e9058f3544793b467a7f83247737f:
+    span:
+      start: 981
+      end: 1085
+    metadata: {}
+  41cbe8fe4bcd42159c25489be80b2a98:
+    span:
+      start: 1088
+      end: 1184
+    metadata: {}
+  c42a34687cf84665a892d536bdd7d183:
+    span:
+      start: 1187
+      end: 1290
+    metadata: {}
+  add28beeda2f4f2e9b871eec193dcef0:
+    span:
+      start: 1293
+      end: 1394
+    metadata: {}
+  34f2436bbb254c33ba1b2c6b3ee8953f:
+    span:
+      start: 1397
+      end: 1600
+    metadata: {}
+  329a997bd553482c8b4bd9814342c34f:
+    span:
+      start: 1603
+      end: 1698
+    metadata: {}
+  1cc0bfc4cbcf4901abea7166c773ffe4:
+    span:
+      start: 1701
+      end: 1703
+    metadata: {}
+  006bd42c75d0497bb85dd4940dc55f51:
+    span:
+      start: 1706
+      end: 1913
+    metadata: {}
+  dc64668ceba4473dad4b2159646a160e:
+    span:
+      start: 1916
+      end: 2014
+    metadata: {}
+  40c03ff18db94099a8ac3d7d104d42a1:
+    span:
+      start: 2017
+      end: 2118
+    metadata: {}
